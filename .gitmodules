@@ -1,0 +1,9 @@
+[submodule "cpd"]
+	path = cpd
+	url = https://github.com/SIMPATICOProject/CPD.git
+[submodule "qae"]
+	path = qae
+	url = https://github.com/SIMPATICOProject/citizenpedia.git
+[submodule "servicepedia"]
+	path = servicepedia
+	url = https://github.com/SIMPATICOProject/servicepedia.git
